@@ -1,0 +1,20 @@
+1.rain- drops of water that fall from clouds
+2.Autumn - season after summer and before winter
+3.Winter - coldest season of the year
+4.Spring - season of the year between winter and summer
+5.Climate - the weather conditions prevailing in an area in general or over a long period.
+6.dry - free from moisture or liquid
+7.forecast - the expected weather for the future
+8.Flood - overflow of rain water
+9.Freeze - temperature below 0°C
+10.lightning - electrical discharge and flash between a cloud and the ground
+11.Thunder -  the sound that follows a flash of lightning 
+12.Temperature -he degree or intensity of heat present in a substance 
+13.Drought - a long period with no rainfall
+14.Snow -atmospheric water vapour frozen into ice crystals
+15.Summer - the warmest season of the year
+16.Sunrise - the time in the morning when the sun appears 
+17.Sunset - the time in the evening when the sun disappears 
+18.Cloudy - covered with clouds
+19.Sunny - bright with sunlight
+20.Windy - blowing air outside

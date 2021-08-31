@@ -1,0 +1,27 @@
+1.bank -  place where we can deposit or withdraw money.
+2. court - a place where trials and other legal cases happen
+3.hospital- n institution in which sick or injured persons are given medical or surgical treatment
+4.hotel - a commercial establishment offering lodging to travelers
+5.Market - a place where buyers and sellers can gather to exchange  goods and services.
+
+6.Prison - a building where criminals are kept as a punishment
+7.mall - a large retail complex containing a variety of stores and often restaurants and other business establishments 
+8.Museum - a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.
+9.Bakery - a place where bread and cakes are made or sold
+10.Kovil - a place of worship for Hindus.
+11.church - a building used for public Christian worship
+12.Buddhist temple - the place of worship for Buddhists
+13.mosque - a Muslim place of worship.
+14.gym - a place where you can go to exercise using machines
+15.post office - the public department responsible for postal services
+16.pharmacy - a shop or hospital dispensary where medicinal drugs are prepared or sold
+17.park - a large public garden or area of land used for recreation.
+18.supermarket - a large self-service shop selling foods and household goods.
+19.zoo - an establishment which maintains a collection of wild animals
+20.police station - 
+21.cinema- where films are shown for public entertainment.
+22.shop - a building or part of a building where goods or services are sold
+23.factory - a building or buildings where people use machines to produce goods
+24.restaurant - a place where meals are prepared and served to paying customers
+25.office - a building in which people work
+26. café -where you can buy a cup of coffee

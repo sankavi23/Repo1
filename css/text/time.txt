@@ -1,0 +1,25 @@
+1.morning -  period of time between midnight and noon
+2.evening -  period of time at the end of the day
+3.night -  period from sunset to sunrise in each twenty-four hours
+4.day - each of the twenty-four-hour periods
+5.month - each of the twelve named periods into which a year is divided.
+5.year - period of 365 or 366 days
+6.second - Standard International ( SI ) unit of time.
+7.minute - a period of time equal to sixty seconds 
+8.hour - 60 minutes of time
+9.past - occurred during a time previous to the present
+10.present -  period of time that is happening now
+12.future - the period of time that will come after the present time 
+13.annual - occurring once every year.
+14.century - a period of one hundred years.
+15.calendar - a chart or series of pages showing the days, weeks, and months of a particular year.
+16.everyday - happening or used every day
+17.late - doing something or taking place after the expected
+18.noon - twelve o'clock in the day
+19.today - the present day
+20.tomorrow - the day after today.
+21.yesterday - on the day before today.
+22.week - a period of seven days.
+23.clock - an instrument for measuring and recording time
+24.before -during the period of time preceding a particular event or time
+25.after - later in time
