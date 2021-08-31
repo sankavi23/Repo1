@@ -1,0 +1,25 @@
+1.doctor - a person you go to see when you are ill or have some type of health problem.
+2.teacher - a person that passes knowledge to students, usually at school
+3.Engineer- a person who develops solutions to technical problems. They sometimes design, build, or maintain engines, machines, structures or public works.
+4.Nurse - a person trained to help a doctor look after the sick or injured.
+5.Policeman- a male member of a police force
+6.dentist - a person that can fix problems you have with your teeth.
+7.postman-a person who is employed to deliver or collect letters and parcels.
+8.waiter - a person that works in a food outlet, looking after customers and serving food.
+9.Electrician - a person that works with electric circuits.
+10.photographer - a person that takes photos
+11.Scientist - a person that works in the science industry. They do many experiments.
+12.Soldier - a person who works for the army
+13.Secretary - a person employed in an office who types letters, keeps records etc
+14.Accountant - a person that works with the money and accounts of a company.
+15.Tailor - a person that makes clothes for others
+16.Driver - a person who drives vehicle
+17.Carpenter - a person that makes things from wood including houses and furniture.
+18.Housewife - a woman whose main occupation is caring for her family, managing household affairs, and doing housework
+19.Architect - a person who designs buildings and in many cases also supervises their construction.
+20.Author - They write books or novels.
+21.Farmer - a person that works on a farm, usually with animals.
+22.Fisherman - a person that catches fish
+23.Journalist - a person that makes new reports in writing or through television.
+24.Lawyer - a person that defends people in court and gives legal advice.
+25.Chef - a person that prepared food for others, often in a restaurant 

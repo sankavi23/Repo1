@@ -1,0 +1,33 @@
+1.vehicle - a conveyance that transports people or objects
+2.passenger - a traveler riding in a vehicle but not operating it
+3.transportation - the movement of humans, animals and goods from one location to another. 
+4.airport - an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo
+5.drive - operate or control a vehicle
+
+6.traffic - vehicles or pedestrians traveling in a particular locality
+
+7.bus - a vehicle carrying many passengers
+
+8.car - a motor vehicle with four wheels
+9.pedestrian - a person who travels by foot
+
+10.ride - sit and travel on the back of animal, usually while controlling its motions
+11.journey - the act of traveling from one place to another
+12.bicycle - a wheeled vehicle that has two wheels and is moved by foot pedals
+13.lorry -  a large truck designed to carry heavy loads; usually without sides
+
+14.road -  hard surface built for vehicles to travel along
+15.ship - a vessel that carries passengers or freight
+16.aeroplane - a fixed-wing aircraft that is powered by propellers or jets
+
+17.train - a set of several carriages that are connected to each other and pulled along a railway line by an engine
+18.pilot - a person who operates the flying controls of an aircraft.
+19.captain - the person in command of a ship
+20.crowded - overfilled or compacted or concentrated
+21.departure - the act of leaving
+22.arrive - reach a destination
+23.ticket - a commercial document showing that the holder is entitled to something
+24.luggage - cases used to carry belongings when traveling
+25.station - a regular stopping place (as on a bus, train, or subway line)
+
+
