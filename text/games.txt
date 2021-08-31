@@ -1,0 +1,25 @@
+1.Athletics - the sport of competing in track and field events
+2.badminton - a game with rackets in which a shuttlecock is hit back and forth across a net.
+3.basketball - game played between two teams of five players each on a rectangular court
+4.boxing - the sport or practice of fighting with the fists
+5.Cricket - an outdoor game played between two team
+6.Football -kicking a ball to score a goal. 
+7.Cycling - the sport or activity of riding a bicycle
+8.Hiking - the activity of going for long walks, especially across country.
+9.Hockey - game between two teams of players who each have a curved stick
+10.Jogging - the activity of running at a slow, regular speed
+11.Neyball - a seven-a-side game in which goals are scored by throwing a ball
+12.Chess - a board game of strategic skill for two players
+13.Rugby - a team game played with an oval ball that may be kicked, carried, and passed from hand to hand.
+14.Shooting - the action or practice of shooting with a gun.
+15.Tennis - a game in which two or four players strike a ball with rackets over a net stretched across a court
+16.Volleyball - a large ball is hit by hand over a high net
+17.Yoga - type of exercise in which you move your body into various positions
+18.weightlifting
+19.Karate - activity of lifting barbells or other heavy weights.
+20.Player - a person taking part in a game.
+21.Match - a contest in which people or teams compete against each other in a particular sport
+22.Team - a group of players forming one side in a competitive game 
+23.Tournament - a series of contests between a number of competitors, competing for an overall prize.
+24.Score - a record of points made or lost
+25.gymnastics - exercises developing or displaying physical agility and coordination
